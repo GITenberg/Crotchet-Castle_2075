@@ -1,5 +1,5 @@
 _repo: Crotchet-Castle_2075
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Authors -- Fiction'
 - !lcsh 'Philosophy -- Fiction'
 - !lcsh 'England -- Fiction'
+- GITenberg
 title: Crotchet Castle
 url: http://www.gutenberg.org/ebooks/2075
